@@ -1,0 +1,3 @@
+[submodule "reference/git-sub-module"]
+	path = reference/git-sub-module
+	url = git@github.com:evencycu/git-sub-module.git
